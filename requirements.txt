@@ -1,0 +1,6 @@
+opencv-python==4.5.5.62
+tqdm==4.64.0
+gdown==4.4.0
+matplotlib
+numpy
+

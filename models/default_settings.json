@@ -1,0 +1,16 @@
+{
+  "regular": {
+    "path": "models/model.pt",
+    "point_radius": 3,
+    "len_style": 6,
+    "file_id": "1NqMotLa3kxtmYni8P4kYc4T9rFNsrQlv",
+    "url": "https://drive.google.com/u/0/uc?id=1NqMotLa3kxtmYni8P4kYc4T9rFNsrQlv&export=download"
+  },
+  "metal_roughness": {
+    "path": "models/mr.pt",
+    "point_radius": 3,
+    "len_style": 8,
+    "file_id": "1A70qTfZSshKewF2udl_yxwwH9Y29Wb_f",
+    "url": "https://drive.google.com/u/0/uc?id=1A70qTfZSshKewF2udl_yxwwH9Y29Wb_f&export=download"
+  }
+}

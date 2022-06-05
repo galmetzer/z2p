@@ -1,0 +1,26 @@
+{
+  "Goat": {
+    "rx": -1.15,
+    "ry": 0.64,
+    "rz": -2.46,
+    "scale": 1.25,
+    "path": "point_clouds/goat.obj",
+    "dy": 331
+  },
+  "Chair": {
+    "rx": -2.08,
+    "ry": 0.13,
+    "rz": 1.46,
+    "scale": 1.09,
+    "path": "point_clouds/chair.obj",
+    "dy": 353
+  },
+  "File": {
+    "rx": 0.0,
+    "ry": 0.0,
+    "rz": 0.0,
+    "scale": 1.0,
+    "path": "None",
+    "dy": 300
+  }
+}
